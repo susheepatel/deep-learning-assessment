@@ -1,8 +1,4 @@
-# Technical Q&A — AIML & Web Development
 
-Based on the skill set in the profile (Python, Machine Learning, TensorFlow/PyTorch, React.js, and LegalTech/AI applications), here are 5 common interview-style questions with detailed answers and explanations.
-
----
 
 ## Q1. What is the difference between TensorFlow and PyTorch, and when would you choose one over the other?
 
